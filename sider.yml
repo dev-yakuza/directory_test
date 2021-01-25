@@ -2,5 +2,4 @@ linter:
   eslint:
     root_dir: 'master-test'
     config: 'frontend/.eslintrc'
-    - []
     ext: 'js,jsx'
